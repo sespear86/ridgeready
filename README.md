@@ -1,10 +1,11 @@
 # RidgeReady
 
-Interactive 8-week trainer for the River Roofing In-home Sales Consultant role.
+Interactive 8-week River Roofing study tutor.
 
-## Easiest way on Android
+**Open / download (Google Drive):**
+https://drive.google.com/file/d/1XyRoRF69PWXXUWWOvgKLEI070Zc8TlH9/view?usp=drivesdk
 
-Download `RidgeReady.html` from the Releases / artifacts and open it in Chrome.
-Then: Chrome menu → **Add to Home screen**.
+**Direct download:**
+https://drive.google.com/uc?export=download&id=1XyRoRF69PWXXUWWOvgKLEI070Zc8TlH9
 
-Repo: https://github.com/sespear86/ridgeready
+On Android: download the HTML, open it in Chrome, then Chrome menu → Add to Home screen.
